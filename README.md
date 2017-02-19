@@ -1,2 +1,2 @@
 # view
-O Componente View do Framework Zyne
+Componente View do Framework Zyne
