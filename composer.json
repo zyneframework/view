@@ -1,6 +1,6 @@
 {
   "name": "zyneframework/view",
-  "description": "O Componente View do Framework Zyne",
+  "description": "Componente View do Framework Zyne",
   "type": "library",
   "require": {
     "zyneframework/core-min": "dev-master"
